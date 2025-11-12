@@ -371,7 +371,11 @@ This project is licensed under the MIT License.
 
 ## 👥 Contributors
 
-- Your Name - Initial work
+- Aaron Henríquez Leiva, 
+- Brandon Campos Vargas
+- Ian Castellón Román
+- Leandro Vázquez González
+- Oscar Menjívar Erazo 
 
 ---
 
@@ -380,12 +384,6 @@ This project is licensed under the MIT License.
 - FastAPI Documentation
 - React Documentation
 - NestJS Documentation
-
----
-
-## 📧 Contact
-
-For questions or support, please contact: your-email@example.com
 
 ---
 
